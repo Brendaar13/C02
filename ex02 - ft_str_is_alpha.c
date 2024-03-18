@@ -1,4 +1,5 @@
 #include <stdio.h> //comentar si no se usará el main
+
 int	ft_str_is_alpha(char *str)
 {
 	int	a;
