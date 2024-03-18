@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.h> //comentar si no se usará el main
 
 char	*ft_strncpy(char *dest, char *src, unsigned int n)
 {
